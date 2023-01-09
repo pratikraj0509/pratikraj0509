@@ -2,7 +2,7 @@
 
 I' am a author, Currently I am Data science Practitioner and Engineering Student.
 
-- 🌱 I'm currently learning at [ineuron.ai](https://ineuron.ai/) 🦢
+- 🌱 I'm currently learning at [Upgrad](https://www.upgrad.com/) 🦢
 - 😻 I'am interseted in Techonologies like analytics, machine learning and cloud.
 - 💡 Always excited to know how data help to improve business performance
 - 🔭 I’m looking For opportunity in data science domain.
