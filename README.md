@@ -35,8 +35,3 @@ This is how you dropdown.
 <a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="heroku" width="40" height="40"/>
 <a href="mysql-official.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="heroku" width="40" height="40"/>
 </details>
-
-
-  
-  
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekkpatil7&show_icons=true&theme=radical)
