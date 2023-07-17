@@ -10,7 +10,7 @@ I' am a author, Currently I am Data science Practitioner and Engineering Student
 
 You can often find me working on making interactive dashboard in power bi and tablebeu, Data analysis projects and coding in Python
 - ⚡ Fun fact: I love to watch Web Series
-- 💬 Ask me about Web Designs and Web Atrs
+- 💬 Ask me about Web Designs and Web Arts
 
 ### Connect with me
 
