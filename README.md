@@ -1,6 +1,6 @@
 # Namste, I'm Pratik Rajput 👋 
 
-I' am a author, Currently I am Data science Practitioner and Engineering Student.
+I' am a author, Currently I am a Software Developer Mern Stack and Engineering Student.
 
 - 🌱 I'm currently learning at [Upgrad](https://www.upgrad.com/) 🦢
 - 😻 I'am interseted in Techonologies like analytics, MERN Stack.
